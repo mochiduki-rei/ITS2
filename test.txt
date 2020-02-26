@@ -1,4 +1,4 @@
 test
 
-conflict
+conflict-branch2
 
